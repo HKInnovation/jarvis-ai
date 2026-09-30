@@ -1,0 +1,12 @@
+flask
+flask-cors
+python-dotenv
+requests
+wikipedia
+pyttsx3
+SpeechRecognition
+pyaudio
+groq
+PyPDF2
+python-docx
+Pillow
